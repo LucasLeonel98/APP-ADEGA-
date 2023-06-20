@@ -7,7 +7,7 @@ Projeto feito na trilha de react native devmedia
 
 # **Tela Catalogo**
 
-![Screenshot_1687224841](https://github.com/LucasLeonel98/APP-ADEGA-/assets/54035478/064f6670-395d-4b0c-8786-279fc648834a.png = 250x250)
+![Screenshot_1687224841](https://github.com/LucasLeonel98/APP-ADEGA-/assets/54035478/064f6670-395d-4b0c-8786-279fc648834a)
 
 # **Tela Contato**
 
